@@ -1,2 +1,2 @@
-# MiRepositorioDePruebas
-Repositorio creado para probar Github
+# HelloPrimeFaces
+Proyecto de prueba creado para probar Github
